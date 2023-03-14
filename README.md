@@ -1,3 +1,3 @@
 # cotoid-server
 
-github pagesのサイトに開くことはやめてください
+github pagesのサイトを開くことはやめてください
